@@ -8,4 +8,6 @@ JPA MySql Tutorial:
 		- mysql server: 5.7.18 
 		- mysql workbench: 6.3
 		- eclipse: neon jee
+		- eclipselink: 2.5.2
+		- mysql connector: 6.0.6
 
